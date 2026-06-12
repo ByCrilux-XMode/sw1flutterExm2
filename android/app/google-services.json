@@ -1,21 +1,21 @@
 {
   "project_info": {
-    "project_number": "111672959475",
-    "project_id": "urubich-explorer",
-    "storage_bucket": "urubich-explorer.firebasestorage.app"
+    "project_number": "",
+    "project_id": "",
+    "storage_bucket": ""
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:111672959475:android:deb0456a8f6948a53e7286",
+        "mobilesdk_app_id": "",
         "android_client_info": {
-          "package_name": "uagrm.gestion_politicas.com.parcial_2"
+          "package_name": ""
         }
       },
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyDlagSwJcdxilMg1ChxbbruGyvTZy7zFTk"
+          "current_key": ""
         }
       ],
       "services": {
